@@ -1,0 +1,20 @@
+
+1. Install MySQL Workshell
+2. Install Visual Studio 2019
+
+3. Open as Esisting Project
+4. Link The Project:
+	-> Project -> library Properties ("library" project name ) -> Configuration (All COnfigurations) -> Platform (Active (x64))
+	-> C/C++ -> General -> Additional Include Directories -> Edit -> New Line -> 
+					=> C:\Program Files\MySQL\Connector C++ 8.0\include
+					=> C:\Program Files\MySQL\MySQL Server 8.0\include  -> OK
+	-> Linker -> General -> Additional Library Directories -> Edit -> New Line -> 
+					=> C:\Program Files\MySQL\Connector C++ 8.0\lib64\vs14
+					=> C:\Program Files\MySQL\MySQL Server 8.0\lib  -> OK
+	-> Linker -> Input -> Additional Dependencies -> paste 
+							=> mysqlcppconn.lib
+							=> libmysql.lib  -> OK
+
+
+5. Now ready to run.. Good luck
+

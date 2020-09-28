@@ -1,0 +1,23 @@
+﻿  library.cpp
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(60,16): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(59,15): warning C4101: 'row': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(97,15): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(96,15): warning C4101: 'row': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(139,15): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(138,15): warning C4101: 'row': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(265,16): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(264,15): warning C4101: 'row': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(301,17): warning C4129: 'D': unrecognized character escape sequence
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(287,16): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(286,15): warning C4101: 'row': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(311,16): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(310,15): warning C4101: 'row': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(376,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(470,16): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(469,15): warning C4101: 'row': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(497,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(545,16): error C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(570,16): warning C4101: 'res_1': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(569,15): warning C4101: 'row_1': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(662,16): warning C4101: 'res': unreferenced local variable
+E:\Vanier College\Block_4\C++\LAB\Project\LibraryProject\library\library\library.cpp(661,15): warning C4101: 'row': unreferenced local variable
